@@ -23,5 +23,4 @@
                 result = "末吉";
             }
 
-            document.getElementById('result-output').innerText = "あなたの今週の運勢は【" + result + "】です";
-        }
+        小型犬　人なっこい、中型犬　普通　大型犬　人なっこくない。
